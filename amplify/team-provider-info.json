@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-brandpulseai-dev-03be4-authRole",
+      "UnauthRoleArn": "arn:aws:iam::075255217250:role/amplify-brandpulseai-dev-03be4-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::075255217250:role/amplify-brandpulseai-dev-03be4-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-brandpulseai-dev-03be4-deployment",
+      "UnauthRoleName": "amplify-brandpulseai-dev-03be4-unauthRole",
+      "StackName": "amplify-brandpulseai-dev-03be4",
+      "StackId": "arn:aws:cloudformation:us-east-1:075255217250:stack/amplify-brandpulseai-dev-03be4/a06d04a0-04bb-11f0-8987-1274fecdafe9",
+      "AmplifyAppId": "d1cdxn6prluwzg"
+    }
+  }
+}
